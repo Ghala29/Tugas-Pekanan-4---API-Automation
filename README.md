@@ -1,4 +1,4 @@
-# Tugas-Pekanan-4---API-Automation
+# Tugas-Pekanan-4-API-Automation
 by Ghala Sudana
 
 Hasil Running 
