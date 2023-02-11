@@ -11,7 +11,7 @@ describe("POST /authentications", function () {
            
   })
     expect(response.status).to.eql(201);
-    var data = response.body.datac
+    var data = response.body.data
     expect(data.accessToken).to.be.a('string')
    token = response.body.data.accessToken;
    refreshToken = response.body.data.refreshToken;
