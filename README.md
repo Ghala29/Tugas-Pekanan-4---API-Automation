@@ -13,4 +13,4 @@ npm run test
 
 Hasil Running 
 
-![image](https://user-images.githubusercontent.com/85092513/218247835-ba9b96db-6f12-4371-8650-8598da86ae51.png)
+![image](https://user-images.githubusercontent.com/85092513/218256862-1ec6975b-1a57-4cbd-bd88-28049fde0803.png)
